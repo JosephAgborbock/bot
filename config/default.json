@@ -1,0 +1,5 @@
+{
+    "appSecret": "[App Dashboard > Dashboard > click the Show button in the App Secret field]",
+    "pageAccessToken": "EAAHfgJTwTcoBAOs75IS9Se2n6LhIqwj0CRJmxzZAWjbpUl3qPlw65WCHN3JpmOUnQGBrZBcF2jSp9rxEZCCTbZBHZC4tcqAqB3CLc2UPAC5HZBNczSFsIBDwRlW5607iMDfGggTQAqB6ZCYsnaoZADgL3iiTL4RdEerk282mvZBJqBAZDZD",
+    "validationToken": "[App Dashboard > Webhooks > Edit Subscription > copy whatever random value you decide to use in the Verify Token field]"
+}
